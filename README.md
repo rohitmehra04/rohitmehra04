@@ -1,19 +1,18 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Rohit%20Mehra&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Rohit%20Mehra&fontSize=42&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I'm Rohit Mehra</h1>
-<h3 align="center">🚀 Data Analyst | MIS Executive | Turning Data into Business Insights</h3>
+<h3 align="center">Data Analyst | MIS Executive</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Data+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+Dashboard+Developer;Data+Driven+Decision+Maker;Always+Learning+New+Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Data+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+Dashboard+Developer;Turning+Data+into+Insights" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 📊 Data Analyst with strong expertise in **data analysis & visualization**
-- 🧹 Skilled in **data cleaning, transformation, and reporting**
-- 📈 Build dashboards that drive **business decisions**
-- 🎯 Focused on delivering **accurate & impactful insights**
+## 💼 About Me
+- Data Analyst skilled in **Python, MySQL, Power BI, and Advanced Excel**  
+- Experienced in **data cleaning, analysis, and dashboard development**  
+- Strong focus on **data-driven decision-making and business insights**  
 
 ---
 
@@ -30,27 +29,23 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 📊 Sales Dashboard (Power BI)
-- Developed interactive dashboard with KPIs, slicers & drill-down analysis  
-- Improved business reporting and decision-making  
+🔹 **Sales Dashboard (Power BI)**  
+Built an interactive dashboard with KPIs and filters to support business decisions  
 
-### 📈 Python Data Analysis
-- Performed EDA, data cleaning & visualization  
-- Identified trends and patterns for insights  
+🔹 **Python Data Analysis**  
+Performed data cleaning, EDA, and visualization to identify trends  
 
-### 📑 Excel MIS Automation
-- Automated reports using formulas & functions  
-- Reduced manual effort and improved efficiency  
+🔹 **Excel MIS Reporting**  
+Automated reports and improved efficiency using advanced Excel  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehrarohit04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrarohit04&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehrarohit04&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
@@ -63,30 +58,27 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehrarohit04&theme=tokyo-night)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=mehrarohit04&theme=tokyo-night)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mehrarohit04/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:irohitt96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💡 Professional Mindset
-✔ Data-driven thinking  
-✔ Problem-solving approach  
-✔ Continuous learning attitude  
-
----
-
-## 🧠 Quote
-*"Data is the new oil, but insights are the real fuel."*
+## 💡 Quote
+*"Turning data into decisions."*
 
 ---
 
